@@ -13,7 +13,7 @@
 
 ## 📊 Status Bar Integration
 
-![Status Bar](introduce/A00.png)
+![Status Bar](https://raw.githubusercontent.com/Zaious/Antigravity-Skills-Chronicle/main/introduce/A00.png)
 
 The extension provides a **real-time status bar** showing your current asset counts:
 - **Skills**: Total AI skill definitions
@@ -24,7 +24,7 @@ The extension provides a **real-time status bar** showing your current asset cou
 
 ## 🖥️ Terminal Dashboard
 
-![Terminal](introduce/A01.png)
+![Terminal](https://raw.githubusercontent.com/Zaious/Antigravity-Skills-Chronicle/main/introduce/A01.png)
 
 The **Terminal View** is your command center:
 
@@ -38,7 +38,7 @@ The **Terminal View** is your command center:
 
 ## 📁 Skill Detail: File Browser
 
-![Skill Files](introduce/A02_0.png)
+![Skill Files](https://raw.githubusercontent.com/Zaious/Antigravity-Skills-Chronicle/main/introduce/A02_0.png)
 
 Explore the internal structure of any skill:
 - **File Tree**: Navigate folders and view source files directly
@@ -49,7 +49,7 @@ Explore the internal structure of any skill:
 
 ## ⚙️ Skill Detail: Configuration View
 
-![Skill Config](introduce/A02_1.png)
+![Skill Config](https://raw.githubusercontent.com/Zaious/Antigravity-Skills-Chronicle/main/introduce/A02_1.png)
 
 The **Configuration Tab** displays the parsed Chronicle Node Schema:
 - **Vibe Stats**: Endurance, Accuracy, Creativity, Aggression
@@ -60,7 +60,7 @@ The **Configuration Tab** displays the parsed Chronicle Node Schema:
 
 ## 📝 Skill Detail: Synchronized Memo
 
-![Skill Memo](introduce/A02-2.png)
+![Skill Memo](https://raw.githubusercontent.com/Zaious/Antigravity-Skills-Chronicle/main/introduce/A02-2.png)
 
 The **Memo Tab** provides a personal note-taking space:
 - Attach context, ideas, or reminders to any skill
@@ -71,7 +71,7 @@ The **Memo Tab** provides a personal note-taking space:
 
 ## 📚 Chronicle Manual & Support
 
-![Manual & Support](introduce/A03.png)
+![Manual & Support](https://raw.githubusercontent.com/Zaious/Antigravity-Skills-Chronicle/main/introduce/A03.png)
 
 The **Chronicle Manual** hub offers:
 1. **Module Specs**: Understand the interconnected logic of Skills, Workflows, and Rules
