@@ -75,7 +75,7 @@ You can configure global asset paths in the **Terminal Dashboard**.
 
 ## 📊 Status Bar Integration
 
-![Status Bar](https://raw.githubusercontent.com/Zaious/Antigravity-Skills-Chronicle/main/public/assets/introduce/A00.png)
+![Status Bar](https://raw.githubusercontent.com/Zaious/Antigravity-Skills-Public/main/introduce/status-bar.png)
 
 The extension provides a **real-time status bar** showing your current asset counts.
 
@@ -83,7 +83,7 @@ The extension provides a **real-time status bar** showing your current asset cou
 
 ## 🖥️ Terminal Dashboard
 
-![Terminal](https://raw.githubusercontent.com/Zaious/Antigravity-Skills-Chronicle/main/public/assets/introduce/A01.png)
+![Terminal](https://raw.githubusercontent.com/Zaious/Antigravity-Skills-Public/main/introduce/dashboard-full.png)
 
 The **Terminal View** is your command center.
 
@@ -91,7 +91,7 @@ The **Terminal View** is your command center.
 
 ## 📁 Skill Detail: File Browser
 
-![Skill Files](https://raw.githubusercontent.com/Zaious/Antigravity-Skills-Chronicle/main/public/assets/introduce/A02_0.png)
+![Skill Files](https://raw.githubusercontent.com/Zaious/Antigravity-Skills-Public/main/introduce/skill-detail-files-2.png)
 
 Explore the internal structure of any skill.
 
@@ -99,7 +99,7 @@ Explore the internal structure of any skill.
 
 ## ⚙️ Skill Detail: Configuration View
 
-![Skill Config](https://raw.githubusercontent.com/Zaious/Antigravity-Skills-Chronicle/main/public/assets/introduce/A02_1.png)
+![Skill Config](https://raw.githubusercontent.com/Zaious/Antigravity-Skills-Public/main/introduce/skill-detail-config-2.png)
 
 The **Configuration Tab** displays the parsed Chronicle Node Schema.
 
@@ -107,7 +107,7 @@ The **Configuration Tab** displays the parsed Chronicle Node Schema.
 
 ## 📝 Skill Detail: Synchronized Memo
 
-![Skill Memo](https://raw.githubusercontent.com/Zaious/Antigravity-Skills-Chronicle/main/public/assets/introduce/A02-2.png)
+![Skill Memo](https://raw.githubusercontent.com/Zaious/Antigravity-Skills-Public/main/introduce/skill-detail-memo-2.png)
 
 The **Memo Tab** provides a personal note-taking space.
 
@@ -115,7 +115,7 @@ The **Memo Tab** provides a personal note-taking space.
 
 ## 📚 Chronicle Manual & Support
 
-![Manual & Support](https://raw.githubusercontent.com/Zaious/Antigravity-Skills-Chronicle/main/public/assets/introduce/A03.png)
+![Manual & Support](https://raw.githubusercontent.com/Zaious/Antigravity-Skills-Public/main/introduce/manual-overview.png)
 
 The **Chronicle Manual** hub offers module specs, chronicle logs, and space ops guidelines.
 
